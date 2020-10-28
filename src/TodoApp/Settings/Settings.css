@@ -1,0 +1,8 @@
+.st-box {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.input-block {
+    display: block !important;
+}
